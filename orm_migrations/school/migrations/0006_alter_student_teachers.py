@@ -27,7 +27,7 @@
     <meta name="optimizely-datafile" content="{&quot;groups&quot;: [], &quot;environmentKey&quot;: &quot;production&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [], &quot;version&quot;: &quot;4&quot;, &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;anonymizeIP&quot;: true, &quot;sdkKey&quot;: &quot;WTc6awnGuYDdG98CYRban&quot;, &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}, {&quot;id&quot;: &quot;20785470195&quot;, &quot;key&quot;: &quot;country_code&quot;}, {&quot;id&quot;: &quot;21656311196&quot;, &quot;key&quot;: &quot;opened_downgrade_dialog&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20438619534&quot;, &quot;key&quot;: &quot;click.pricing_calculator.1_member&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20456699683&quot;, &quot;key&quot;: &quot;click.pricing_calculator.15_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20467868331&quot;, &quot;key&quot;: &quot;click.pricing_calculator.10_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476267432&quot;, &quot;key&quot;: &quot;click.trial_days_remaining&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476357660&quot;, &quot;key&quot;: &quot;click.discover_feature&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20479287901&quot;, &quot;key&quot;: &quot;click.pricing_calculator.custom_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20481107083&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_teacher_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20483089392&quot;, &quot;key&quot;: &quot;click.pricing_calculator.5_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484283944&quot;, &quot;key&quot;: &quot;click.onboarding_task&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484996281&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_student_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20486713726&quot;, &quot;key&quot;: &quot;click.onboarding_task_breadcrumb&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20490791319&quot;, &quot;key&quot;: &quot;click.upgrade_to_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20491786766&quot;, &quot;key&quot;: &quot;click.talk_to_us&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20494144087&quot;, &quot;key&quot;: &quot;click.dismiss_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20499722759&quot;, &quot;key&quot;: &quot;completed_all_tasks&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20500710104&quot;, &quot;key&quot;: &quot;completed_onboarding_tasks&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20513160672&quot;, &quot;key&quot;: &quot;click.read_doc&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20516196762&quot;, &quot;key&quot;: &quot;actions_enabled&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20518980986&quot;, &quot;key&quot;: &quot;click.dismiss_trial_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20535446721&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.dismiss_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20557002247&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20595070227&quot;, &quot;key&quot;: &quot;click.pull_request_setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20626600314&quot;, &quot;key&quot;: &quot;click.seats_input&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20642310305&quot;, &quot;key&quot;: &quot;click.decrease_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20662990045&quot;, &quot;key&quot;: &quot;click.increase_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20679620969&quot;, &quot;key&quot;: &quot;click.public_product_roadmap&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20761240940&quot;, &quot;key&quot;: &quot;click.dismiss_survey_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20767210721&quot;, &quot;key&quot;: &quot;click.take_survey&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20795281201&quot;, &quot;key&quot;: &quot;click.archive_list&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20966790249&quot;, &quot;key&quot;: &quot;contact_sales.submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996500333&quot;, &quot;key&quot;: &quot;contact_sales.existing_customer&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996890162&quot;, &quot;key&quot;: &quot;contact_sales.blank_message_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21000470317&quot;, &quot;key&quot;: &quot;contact_sales.personal_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21002790172&quot;, &quot;key&quot;: &quot;contact_sales.blank_phone_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21354412592&quot;, &quot;key&quot;: &quot;click.dismiss_create_readme&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21366102546&quot;, &quot;key&quot;: &quot;click.dismiss_zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370252505&quot;, &quot;key&quot;: &quot;account_did_downgrade&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370840408&quot;, &quot;key&quot;: &quot;click.cta_create_readme&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21375451068&quot;, &quot;key&quot;: &quot;click.cta_create_new_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21385390948&quot;, &quot;key&quot;: &quot;click.zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21467712175&quot;, &quot;key&quot;: &quot;click.downgrade_keep&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21484112202&quot;, &quot;key&quot;: &quot;click.downgrade&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21495292213&quot;, &quot;key&quot;: &quot;click.downgrade_survey_exit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21508241468&quot;, &quot;key&quot;: &quot;click.downgrade_survey_submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21512030356&quot;, &quot;key&quot;: &quot;click.downgrade_support&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21539090022&quot;, &quot;key&quot;: &quot;click.downgrade_exit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21543640644&quot;, &quot;key&quot;: &quot;click_fetch_upstream&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21646510300&quot;, &quot;key&quot;: &quot;click.move_your_work&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21656151116&quot;, &quot;key&quot;: &quot;click.add_branch_protection_rule&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21663860599&quot;, &quot;key&quot;: &quot;click.downgrade_dialog_open&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21687860483&quot;, &quot;key&quot;: &quot;click.learn_about_protected_branches&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21689050333&quot;, &quot;key&quot;: &quot;click.dismiss_protect_this_branch&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21864370109&quot;, &quot;key&quot;: &quot;click.sign_in&quot;}], &quot;revision&quot;: &quot;1372&quot;}" />
 
 
-  <script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=ds_ZV_OnH7_X0orpM-5Qze3IjZ3w0g4ofMY0IER9NVyOqyheD7BNFwuq1TAFlwnGVgJoQFTk8g7V8LR-D_o-vZSybnNjTK2xkYXk0oeEnUheNim6b8qSqEp3c6yWuTMqiwl_CgVZAhceYT5jvOiZrihA_0LWxXunUz2XofpPLvzWyKdzXyX-Zq5HFvjOYPeHSVeDQ2t1Y_iVaSDPIStf73YgcYxTmwFS9H-A-vhgj_U" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="https://ff.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly9naXRodWIuY29tL0FsZXhCYXpvdmtpbi9ESl9IVy9ibG9iL3ZpZGVvLzIuMi1kYXRhYmFzZXMtMi9vcm1fbWlncmF0aW9ucy9zY2hvb2wvbWlncmF0aW9ucy8wMDAyX2FsdGVyX3N0dWRlbnRfZ3JvdXBfYWx0ZXJfc3R1ZGVudF9uYW1lX2FuZF9tb3JlLnB5"/><script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-a1362a4f61fc.js"></script>
+  <script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=ESYGMTu_Xrm1tld07_LuW-uYTC023NZqqM1Z70KZeEYdwcKNP1sSdHJZD-BmdPlu4ldj0OLBjuj_gylqJ0E6dvsGs3tBVv5Gzoyix9jzkLhai3LuXVfinRIxulhZ5BmuzOBoOZAGoP7cAM530XMCijpUD_Gs9JZoej5AF3XmxHMyb46N0-RR7k9Z2h2GpK8XwRaBs-GzrQAyQy04a80Vvw" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="https://ff.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly9naXRodWIuY29tL0FsZXhCYXpvdmtpbi9ESl9IVy9ibG9iL3ZpZGVvLzIuMi1kYXRhYmFzZXMtMi9vcm1fbWlncmF0aW9ucy9zY2hvb2wvbWlncmF0aW9ucy8wMDA2X2FsdGVyX3N0dWRlbnRfdGVhY2hlcnMucHk"/><script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-a1362a4f61fc.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-327bbf-0aaeb22dd2a5.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_soft-nav_soft-nav_ts-72a9c1436e97.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-9fa8265d4c66.js"></script>
@@ -69,7 +69,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-e02fbd99580b.js"></script>
   
 
-  <title>DJ_HW/0002_alter_student_group_alter_student_name_and_more.py at video · AlexBazovkin/DJ_HW</title>
+  <title>DJ_HW/0006_alter_student_teachers.py at video · AlexBazovkin/DJ_HW</title>
 
 
 
@@ -79,7 +79,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="D8F2:BE36:7063E1F:72B0D72:644502C0" data-turbo-transient="true" /><meta name="html-safe-nonce" content="ddb7eaaf47f36a968652e19ec8c31bd89cdf0635166c3fb548c5029a710b696f" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BbGV4QmF6b3ZraW4vREpfSFcvdHJlZS92aWRlby8yLjItZGF0YWJhc2VzLTIvb3JtX21pZ3JhdGlvbnMvc2Nob29sL21pZ3JhdGlvbnMiLCJyZXF1ZXN0X2lkIjoiRDhGMjpCRTM2OjcwNjNFMUY6NzJCMEQ3Mjo2NDQ1MDJDMCIsInZpc2l0b3JfaWQiOiIzOTY0Mzg0NjIyNjg2ODMwNDcxIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="24912faac62094d27d85ed2bb373ddd3bc0d0ce2d7f4b048cb618888b19c9036" data-turbo-transient="true" />
+  <meta name="request-id" content="D8F2:BE36:7071E2E:72BF195:64450324" data-turbo-transient="true" /><meta name="html-safe-nonce" content="ddb7eaaf47f36a968652e19ec8c31bd89cdf0635166c3fb548c5029a710b696f" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BbGV4QmF6b3ZraW4vREpfSFcvdHJlZS92aWRlby8yLjItZGF0YWJhc2VzLTIvb3JtX21pZ3JhdGlvbnMvc2Nob29sL21pZ3JhdGlvbnMiLCJyZXF1ZXN0X2lkIjoiRDhGMjpCRTM2OjcwNzFFMkU6NzJCRjE5NTo2NDQ1MDMyNCIsInZpc2l0b3JfaWQiOiIzOTY0Mzg0NjIyNjg2ODMwNDcxIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="2b3626814996ffab2a5d516c6776e0cb9f7b319864a9eb9a1d9f7041b846c4fb" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:532511163" data-turbo-transient>
@@ -118,11 +118,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/3ff161c806592d69ba16e40a858376461f997839596c8bbfc9ef114eeffbec7f/AlexBazovkin/DJ_HW" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="DJ_HW/0002_alter_student_group_alter_student_name_and_more.py at video · AlexBazovkin/DJ_HW" /><meta name="twitter:description" content="Contribute to AlexBazovkin/DJ_HW development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/3ff161c806592d69ba16e40a858376461f997839596c8bbfc9ef114eeffbec7f/AlexBazovkin/DJ_HW" /><meta property="og:image:alt" content="Contribute to AlexBazovkin/DJ_HW development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="DJ_HW/0002_alter_student_group_alter_student_name_and_more.py at video · AlexBazovkin/DJ_HW" /><meta property="og:url" content="https://github.com/AlexBazovkin/DJ_HW" /><meta property="og:description" content="Contribute to AlexBazovkin/DJ_HW development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/3ff161c806592d69ba16e40a858376461f997839596c8bbfc9ef114eeffbec7f/AlexBazovkin/DJ_HW" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="DJ_HW/0006_alter_student_teachers.py at video · AlexBazovkin/DJ_HW" /><meta name="twitter:description" content="Contribute to AlexBazovkin/DJ_HW development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/3ff161c806592d69ba16e40a858376461f997839596c8bbfc9ef114eeffbec7f/AlexBazovkin/DJ_HW" /><meta property="og:image:alt" content="Contribute to AlexBazovkin/DJ_HW development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="DJ_HW/0006_alter_student_teachers.py at video · AlexBazovkin/DJ_HW" /><meta property="og:url" content="https://github.com/AlexBazovkin/DJ_HW" /><meta property="og:description" content="Contribute to AlexBazovkin/DJ_HW development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/64984634/ws?session=eyJ2IjoiVjMiLCJ1Ijo2NDk4NDYzNCwicyI6MTEwMzI3MTkzNiwiYyI6MzI2MDUxNDg2NCwidCI6MTY4MjI0NDMzOH0=--5f48bb2389a873f9e79804c19ce2da909168d2c46e93e7e1d71469cc43a514ba" data-refresh-url="/_alive" data-session-id="9d8dc3239002bff0dc1c9548fb5c2377a73802106b15801c534afa39ff094d0c">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/64984634/ws?session=eyJ2IjoiVjMiLCJ1Ijo2NDk4NDYzNCwicyI6MTEwMzI3MTkzNiwiYyI6MTgzMzE0NjkwMywidCI6MTY4MjI0NDQwMX0=--4ede92ec1c02f1688f79c5926a1bfb468e8aa5e856f8be0968e04701ea5e0faa" data-refresh-url="/_alive" data-session-id="9d8dc3239002bff0dc1c9548fb5c2377a73802106b15801c534afa39ff094d0c">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-71e98f781d79.js">
 
 
@@ -151,7 +151,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -244,7 +244,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="hiofeA36xqCjCuLHN0d1ZSETwQx0c-ZjnpsBnx7O41HqVkB52zAMIpy7UhSkHtfsp1EOyGQM5CYTZ9reJUq4Pg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="-gXLTmxuugfXRJDs-YMRcZTAR8tCNZu_5cXFjfIMgYOWeZRPuqRwhej1ID9q2rP4EoKID1JKmfpoOR7MyYja7A" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -443,7 +443,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;byka89&quot;,&quot;originating_url&quot;:&quot;https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py&quot;,&quot;user_id&quot;:64984634}}" data-hydro-click-hmac="d885087b78f5910ed082f5ffedd112f03db53e48efd5ffd0a23cb2c997e456bb" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;byka89&quot;,&quot;originating_url&quot;:&quot;https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py&quot;,&quot;user_id&quot;:64984634}}" data-hydro-click-hmac="c83cb9be159377abd8b35a7b1a0c9349347b5910c77f36c34f5eb363258d2380" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -451,7 +451,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/64984634?s=40&amp;v=4" width="20" height="20" alt="@byka89" />
       byka89
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Z9ut15uZwjIA3aXXSJzlmDJUEKyXtyumXSNl6rPHZpNZuyL6g1fhNXQDc79XQ9KRyHIS9PT6o4CxUz7qqjwVhA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rkKfAx7FABj18JNyUBbGkWrBfXBXvtdhK7f8Whnz7suQIhAuBgsjH4EuRRpPyfGYkOd_KDTzX0fHx6daAAid3A" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -486,7 +486,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjQ5ODQ2MzQiLCJ0IjoxNjgyMjQ0MzM4fQ==--ffec46dfb42da5044be88903ea9a817e1f4ea03c55517f88479fe5ccc27ce1a2" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjQ5ODQ2MzQiLCJ0IjoxNjgyMjQ0NDAxfQ==--a9f71af716c5300c42b884bd86e6dede9a47cdc6cbe69723091252ccee7c57bb" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -629,7 +629,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjQ5ODQ2MzQiLCJ0IjoxNjgyMjQ0MzM4fQ==--ffec46dfb42da5044be88903ea9a817e1f4ea03c55517f88479fe5ccc27ce1a2" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjQ5ODQ2MzQiLCJ0IjoxNjgyMjQ0NDAxfQ==--a9f71af716c5300c42b884bd86e6dede9a47cdc6cbe69723091252ccee7c57bb" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -646,7 +646,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py
+      return-to=/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py
       user-id="64984634"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -803,7 +803,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-48c52940-3172-437e-a46f-6dc75c86cb15" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-b04bfc9c-2fd9-4e9a-ae9d-0b2f95488215" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -1649,11 +1649,11 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/AlexBazovkin/DJ_HW/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:532511163,&quot;originating_url&quot;:&quot;https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py&quot;,&quot;user_id&quot;:64984634}}" data-hydro-click-hmac="52a65dbe24123cf44d9f3571445d55b18e6a3de3766dbaf2faeb2911bfaa1e50" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/AlexBazovkin/DJ_HW/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:532511163,&quot;originating_url&quot;:&quot;https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py&quot;,&quot;user_id&quot;:64984634}}" data-hydro-click-hmac="57c04440f24077956cecbce420e489c8e2fe28db53de07b2608158a331452f29" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
-</a>    <tool-tip id="tooltip-d265804b-06c2-4ac5-b203-5426f2ddae74" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of AlexBazovkin/DJ_HW</tool-tip>
+</a>    <tool-tip id="tooltip-3b1621c0-3719-4a60-99fb-4f6485bc6f77" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of AlexBazovkin/DJ_HW</tool-tip>
 </div>
       <details group_item="true" id="my-forks-menu-532511163" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
@@ -1668,13 +1668,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-10f67e">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-efff0c">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-10f67e"
+        id="filter-menu-efff0c"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1716,10 +1716,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/AlexBazovkin/DJ_HW/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ywsdBio3VEqUBDC0pb2SdYSMnYv6fl12QVl9SoEe1fnVzJ6C31eobiGCW-GJ6WnPFKYkEhECohGo5SWUtEcjTw" autocomplete="off" />
-          <input type="hidden" value="K4f3rRmVYC6UsSLnGa9gIgyINz2KgfEYshnHcpccxi41QHQp7PWcCiE3SbI1-5uYnKKOpGH9Dn9bpZ-sokUwmA" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/AlexBazovkin/DJ_HW/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="isM0IhpXnms0ol3OExt6zohtrjTqwHJqRz0FXA78BYmUBLem7zdiT4EkNps_T4F0GEcXrQG8jQ2ugV2CO6XzPw" autocomplete="off" />
+          <input type="hidden" value="-yDl4KpARbhI2HRxqsTR9D_xI-CiWupL_irczYe_xd3l52ZkXyC5nP1eHySGkCpOr9uaeUkmFSwXloQTsuYzaw" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:532511163,&quot;originating_url&quot;:&quot;https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py&quot;,&quot;user_id&quot;:64984634}}" data-hydro-click-hmac="e7b67148642f278b6def385bb23ce43f33fe0928097627ad524be7f74513f0e9" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:532511163,&quot;originating_url&quot;:&quot;https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py&quot;,&quot;user_id&quot;:64984634}}" data-hydro-click-hmac="6dc17a046647cbf1402c249118c7fe76e8d2aa55d0a46f9f38745f8810ebf585" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
 </svg><span data-view-component="true" class="d-inline">
               Starred
@@ -1737,13 +1737,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-90b69f">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-d53ea0">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-90b69f"
+        id="filter-menu-d53ea0"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1764,9 +1764,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/AlexBazovkin/DJ_HW/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wq5mAkFAo3lXHBv1ZFoBKxdo2CoBOIJth5Po0rArpOfCTg5V0BmMeYyBizzaBWtxmbT7GXigvSe7IzLbC6fR-Q" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/AlexBazovkin/DJ_HW/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="J79XYyJT5Q8vWQmzWqup8MYc4kf3zkiWTPIRNpbV0G0nXz80swrKD_TEmXrk9MOqSMDBdI5Wd9xwQss_LVmlcw" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:532511163,&quot;originating_url&quot;:&quot;https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py&quot;,&quot;user_id&quot;:64984634}}" data-hydro-click-hmac="a44aa006cb83e937fdcbf1f61f62b3d7bb47fdd474da9324c8cc6b48e94a159f" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:532511163,&quot;originating_url&quot;:&quot;https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py&quot;,&quot;user_id&quot;:64984634}}" data-hydro-click-hmac="93e896c313f936ce1336da57c443c6453bf361c7cbd739b9dc4e769f85e6d4c7" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
               Star
@@ -1784,13 +1784,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-f802a2">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-e9e98d">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-f802a2"
+        id="filter-menu-e9e98d"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1987,7 +1987,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/AlexBazovkin/DJ_HW/blob/08e8abffc45152cec5e329db4abd12ea8e506b01/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/AlexBazovkin/DJ_HW/blob/08e8abffc45152cec5e329db4abd12ea8e506b01/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1995,7 +1995,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:532511163,&quot;originating_url&quot;:&quot;https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py&quot;,&quot;user_id&quot;:64984634}}" data-hydro-click-hmac="2cd4b7a7e0ed95952d25d92e19e515f43cb50cf0bb77b7c9e61bfb017c36b749">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:532511163,&quot;originating_url&quot;:&quot;https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py&quot;,&quot;user_id&quot;:64984634}}" data-hydro-click-hmac="115478c5a203c99c440823d0863326374701511d1b35152f428d57bc83704a24">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2076,7 +2076,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/AlexBazovkin/DJ_HW/blob/{{ urlEncodedRefName }}/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/AlexBazovkin/DJ_HW/blob/{{ urlEncodedRefName }}/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2118,7 +2118,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/AlexBazovkin/DJ_HW/blob/{{ urlEncodedRefName }}/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/AlexBazovkin/DJ_HW/blob/{{ urlEncodedRefName }}/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2179,9 +2179,9 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/AlexBazovkin/DJ_HW"><span>DJ_HW</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/AlexBazovkin/DJ_HW/tree/video/2.2-databases-2"><span>2.2-databases-2</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/AlexBazovkin/DJ_HW/tree/video/2.2-databases-2/orm_migrations"><span>orm_migrations</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/AlexBazovkin/DJ_HW/tree/video/2.2-databases-2/orm_migrations/school"><span>school</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/AlexBazovkin/DJ_HW/tree/video/2.2-databases-2/orm_migrations/school/migrations"><span>migrations</span></a></span><span class="separator">/</span><strong class="final-path">0002_alter_student_group_alter_student_name_and_more.py</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/AlexBazovkin/DJ_HW"><span>DJ_HW</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/AlexBazovkin/DJ_HW/tree/video/2.2-databases-2"><span>2.2-databases-2</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/AlexBazovkin/DJ_HW/tree/video/2.2-databases-2/orm_migrations"><span>orm_migrations</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/AlexBazovkin/DJ_HW/tree/video/2.2-databases-2/orm_migrations/school"><span>school</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/AlexBazovkin/DJ_HW/tree/video/2.2-databases-2/orm_migrations/school/migrations"><span>migrations</span></a></span><span class="separator">/</span><strong class="final-path">0006_alter_student_teachers.py</strong>
       <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:532511163,&quot;ref&quot;:&quot;video&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py&quot;,&quot;user_id&quot;:64984634}}" data-hydro-click-hmac="9e385017b68389b8d0a7f70096f83b44d70cd67d7ec1436dcd22d2e6571855b8" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:532511163,&quot;ref&quot;:&quot;video&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py&quot;,&quot;user_id&quot;:64984634}}" data-hydro-click-hmac="5b0cfc90774e9dbd33d53a0ecce2bd419d02188f2207cf217fa830a9d9c5982b" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
     <span data-menu-button>Jump to</span>
@@ -2225,7 +2225,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:532511163,&quot;originating_url&quot;:&quot;https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py&quot;,&quot;user_id&quot;:64984634}}" data-hydro-click-hmac="99a4dfafab8adf8e6cbd048fcce9a49d947dab11b798c684649951500e3d2b6d" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/AlexBazovkin/DJ_HW/find/video">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:532511163,&quot;originating_url&quot;:&quot;https://github.com/AlexBazovkin/DJ_HW/blob/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py&quot;,&quot;user_id&quot;:64984634}}" data-hydro-click-hmac="de40d7ca5a97d5d609b4f561e3328998bfd14d6e175a3d0035507ae40bbcace8" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/AlexBazovkin/DJ_HW/find/video">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2243,13 +2243,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/AlexBazovkin/DJ_HW/blob/08e8abffc45152cec5e329db4abd12ea8e506b01/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/AlexBazovkin/DJ_HW/blob/08e8abffc45152cec5e329db4abd12ea8e506b01/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2280,7 +2280,7 @@
     <include-fragment src="/AlexBazovkin/DJ_HW/spoofed_commit_check/08e8abffc45152cec5e329db4abd12ea8e506b01" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/AlexBazovkin/DJ_HW/contributors/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py" class="commit-loader">
+  <include-fragment src="/AlexBazovkin/DJ_HW/contributors/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2314,20 +2314,20 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      33 lines (28 sloc)
+      18 lines (13 sloc)
       <span class="file-info-divider"></span>
-    937 Bytes
+    438 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/AlexBazovkin/DJ_HW/raw/08e8abffc45152cec5e329db4abd12ea8e506b01/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py" href="/AlexBazovkin/DJ_HW/raw/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+        <a data-permalink-href="/AlexBazovkin/DJ_HW/raw/08e8abffc45152cec5e329db4abd12ea8e506b01/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py" href="/AlexBazovkin/DJ_HW/raw/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Raw</span>
     </span>
 </a>  
-          <a data-permalink-href="/AlexBazovkin/DJ_HW/blame/08e8abffc45152cec5e329db4abd12ea8e506b01/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py" href="/AlexBazovkin/DJ_HW/blame/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+          <a data-permalink-href="/AlexBazovkin/DJ_HW/blame/08e8abffc45152cec5e329db4abd12ea8e506b01/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py" href="/AlexBazovkin/DJ_HW/blame/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Blame</span>
     </span>
 </a>  
@@ -2336,7 +2336,7 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/AlexBazovkin/DJ_HW/edit/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rd0byvj_Cc-fxJsAc-8W3zVYL9OYNgunwtKLxWWgMv290smCBBBLKk0bcwd5Eq6RXDf3QCJLLzl1EGOHIXnm7A" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/AlexBazovkin/DJ_HW/edit/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WDOGeBcS9XmvU-D9kJgXmcctz6M7zBzEgMz5rf3ieHn3gAayIm7cZzecrbakyVaAQW2TcSK_rVTEzj0mPDBFaQ" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -2346,7 +2346,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/AlexBazovkin/DJ_HW/edit/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6WI5rIJ1FzvWLtkPSjgnowdkeFc_00avehuMLY_SOhj5bevkfppV3gTxMQhAxZ_tbgugxIWuYjHN2WRvywvuCQ" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/AlexBazovkin/DJ_HW/edit/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4W6DzXNkd0p7dDv4ri7UKZJmEIsSxHC0q2z-E7fDwBJO3QMHRhheVOO7drOaf5UwFCZMWQu3wSTvbjqYdhH9Ag" autocomplete="off" />
               <button title="Fork this repository and edit the file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2354,7 +2354,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/AlexBazovkin/DJ_HW?branch=video&amp;filepath=2.2-databases-2%2Form_migrations%2Fschool%2Fmigrations%2F0002_alter_student_group_alter_student_name_and_more.py" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/AlexBazovkin/DJ_HW?branch=video&amp;filepath=2.2-databases-2%2Form_migrations%2Fschool%2Fmigrations%2F0006_alter_student_teachers.py" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2368,7 +2368,7 @@
   </div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/AlexBazovkin/DJ_HW/delete/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="caikCiXHCDOmDLIfx-o8uPdiyPWKtw0HFPoxy9nYPqRqTDwNgyL3NVhyss5wKVXZogI5fXnw6AHwwcvqYrX6Qg" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/AlexBazovkin/DJ_HW/delete/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GSbt9z8AC2hCZDJ3RPo8ZzSHYo7gY76U6RA6hmgWqnrzaFqY4AB7_sMvTwW8UQpv7FWHqkun5lIvO_EPsTzOFg" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2396,32 +2396,32 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/AlexBazovkin/DJ_HW?branch=video&amp;filepath=2.2-databases-2%2Form_migrations%2Fschool%2Fmigrations%2F0002_alter_student_group_alter_student_name_and_more.py">
+                   href="x-github-client://openRepo/https://github.com/AlexBazovkin/DJ_HW?branch=video&amp;filepath=2.2-databases-2%2Form_migrations%2Fschool%2Fmigrations%2F0006_alter_student_teachers.py">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/AlexBazovkin/DJ_HW/raw/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py">
+            <a class="dropdown-item" href="/AlexBazovkin/DJ_HW/raw/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/AlexBazovkin/DJ_HW/blame/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py">
+              <a class="dropdown-item" href="/AlexBazovkin/DJ_HW/blame/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/AlexBazovkin/DJ_HW/edit/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py">Edit file</a>
+                <a class="dropdown-item" href="/AlexBazovkin/DJ_HW/edit/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py">Edit file</a>
               </li>
                 <li>
                   <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:532511163,&quot;actor_id&quot;:64984634,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/AlexBazovkin/DJ_HW/delete/video/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/AlexBazovkin/DJ_HW/delete/video/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2457,10 +2457,10 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Python" data-tagsearch-path="2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Python" data-tagsearch-path="2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c># Generated by Django 4.1.1 on 2022-10-30 08:16</span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c># Generated by Django 4.1.1 on 2022-10-30 11:02</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
@@ -2496,7 +2496,7 @@
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">        (<span class=pl-s>&#39;school&#39;</span>, <span class=pl-s>&#39;0001_initial&#39;</span>),</td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">        (<span class=pl-s>&#39;school&#39;</span>, <span class=pl-s>&#39;0005_rename_teacher_student_teachers&#39;</span>),</td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
@@ -2521,11 +2521,11 @@
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>name</span><span class=pl-c1>=</span><span class=pl-s>&#39;group&#39;</span>,</td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>name</span><span class=pl-c1>=</span><span class=pl-s>&#39;teachers&#39;</span>,</td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>field</span><span class=pl-c1>=</span><span class=pl-s1>models</span>.<span class=pl-v>CharField</span>(<span class=pl-s1>max_length</span><span class=pl-c1>=</span><span class=pl-c1>10</span>, <span class=pl-s1>verbose_name</span><span class=pl-c1>=</span><span class=pl-s>&#39;Класс&#39;</span>),</td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>field</span><span class=pl-c1>=</span><span class=pl-s1>models</span>.<span class=pl-v>ManyToManyField</span>(<span class=pl-s1>related_name</span><span class=pl-c1>=</span><span class=pl-s>&#39;students&#39;</span>, <span class=pl-s1>to</span><span class=pl-c1>=</span><span class=pl-s>&#39;school.teacher&#39;</span>),</td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
@@ -2533,67 +2533,7 @@
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>migrations</span>.<span class=pl-v>AlterField</span>(</td>
-        </tr>
-        <tr>
-          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>model_name</span><span class=pl-c1>=</span><span class=pl-s>&#39;student&#39;</span>,</td>
-        </tr>
-        <tr>
-          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>name</span><span class=pl-c1>=</span><span class=pl-s>&#39;name&#39;</span>,</td>
-        </tr>
-        <tr>
-          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>field</span><span class=pl-c1>=</span><span class=pl-s1>models</span>.<span class=pl-v>CharField</span>(<span class=pl-s1>max_length</span><span class=pl-c1>=</span><span class=pl-c1>30</span>, <span class=pl-s1>verbose_name</span><span class=pl-c1>=</span><span class=pl-s>&#39;Имя&#39;</span>),</td>
-        </tr>
-        <tr>
-          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">        ),</td>
-        </tr>
-        <tr>
-          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>migrations</span>.<span class=pl-v>AlterField</span>(</td>
-        </tr>
-        <tr>
-          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>model_name</span><span class=pl-c1>=</span><span class=pl-s>&#39;teacher&#39;</span>,</td>
-        </tr>
-        <tr>
-          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>name</span><span class=pl-c1>=</span><span class=pl-s>&#39;name&#39;</span>,</td>
-        </tr>
-        <tr>
-          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>field</span><span class=pl-c1>=</span><span class=pl-s1>models</span>.<span class=pl-v>CharField</span>(<span class=pl-s1>max_length</span><span class=pl-c1>=</span><span class=pl-c1>30</span>, <span class=pl-s1>verbose_name</span><span class=pl-c1>=</span><span class=pl-s>&#39;Имя&#39;</span>),</td>
-        </tr>
-        <tr>
-          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">        ),</td>
-        </tr>
-        <tr>
-          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>migrations</span>.<span class=pl-v>AlterField</span>(</td>
-        </tr>
-        <tr>
-          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>model_name</span><span class=pl-c1>=</span><span class=pl-s>&#39;teacher&#39;</span>,</td>
-        </tr>
-        <tr>
-          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>name</span><span class=pl-c1>=</span><span class=pl-s>&#39;subject&#39;</span>,</td>
-        </tr>
-        <tr>
-          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>field</span><span class=pl-c1>=</span><span class=pl-s1>models</span>.<span class=pl-v>CharField</span>(<span class=pl-s1>max_length</span><span class=pl-c1>=</span><span class=pl-c1>10</span>, <span class=pl-s1>verbose_name</span><span class=pl-c1>=</span><span class=pl-s>&#39;Предмет&#39;</span>),</td>
-        </tr>
-        <tr>
-          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line">        ),</td>
-        </tr>
-        <tr>
-          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line">    ]</td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">    ]</td>
         </tr>
   </table>
 </div>
@@ -2619,7 +2559,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/AlexBazovkin/DJ_HW/blame/08e8abffc45152cec5e329db4abd12ea8e506b01/2.2-databases-2/orm_migrations/school/migrations/0002_alter_student_group_alter_student_name_and_more.py">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/AlexBazovkin/DJ_HW/blame/08e8abffc45152cec5e329db4abd12ea8e506b01/2.2-databases-2/orm_migrations/school/migrations/0006_alter_student_teachers.py">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/AlexBazovkin/DJ_HW/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
